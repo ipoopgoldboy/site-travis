@@ -1,0 +1,54 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+[Project tree]
+Nouveau projet
+	+
+		-Dossier 6
+		..\pspad\Documents-Activité-Web\index.html
+	+Dossier 
+		-
+[Open project files]
+0=INDEX.html
+1=CSS.css
+2=HAUT.html
+3=BAS.html
+4=Featurings.html
+5=Culture.html
+6=CSS1.css
+[Selected Project Files]
+Main=
+Selected=Featurings.html
+[INDEX.html]
+TopLine=1
+Caret=23,20
+[CSS.css]
+TopLine=63
+Caret=2,157
+[HAUT.html]
+TopLine=1
+Caret=21,11
+[BAS.html]
+TopLine=1
+Caret=11,10
+[Featurings.html]
+TopLine=40
+Caret=82,10
+[Culture.html]
+TopLine=53
+Caret=94,68
+[CSS1.css]
+TopLine=1
+Caret=2,21

@@ -1,0 +1,36 @@
+/* CSS Document */>
+
+h1 {
+    text-align: center;
+    margin: 10px 0 10px;
+    text-align: center;
+    font-size: 30px;
+    color: #ecf0f1;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Cherry Swash', cursive;
+}
+
+p1 {
+    text-align: center;
+    margin: 10px 0 10px;
+    text-align: center;
+    font-size: 30px;
+    color: #ecf0f1;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Cherry Swash', cursive;
+}
+
+body {
+    font-size: 15px;
+    margin: 10px 0 10px;
+    font-family: sans-serif;
+    background:  transparent  ;
+    background: content-box radial-gradient(purple, black);
+    background-size: 1300px;
+    color: #ecf0f1;
+    background-repeat: no-repeat;
+    text-shadow: 2px 2px 4px  #2f46c7   ;
+    font-weight: 400;
+    font-style: normal;
+    
+}
